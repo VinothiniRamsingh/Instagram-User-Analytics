@@ -1,7 +1,8 @@
 # Instagram-User-Analytics
 Instagram User Analytics Using MySQL
 
-![image](https://github.com/user-attachments/assets/c646dd39-64a9-4787-abe7-cb0c7d37af7a)
+![insta_analytics drawio](https://github.com/user-attachments/assets/cea00fa2-52ec-4242-b93f-7c279f78e060)
+
 
 **A) Marketing Analysis**:
 

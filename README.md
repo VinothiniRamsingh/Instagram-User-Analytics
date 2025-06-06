@@ -4,6 +4,7 @@ Instagram User Analytics Using MySQL
 ![image](https://github.com/user-attachments/assets/c646dd39-64a9-4787-abe7-cb0c7d37af7a)
 
 **A) Marketing Analysis**:
+
 **1.	Loyal User Reward**: The marketing team wants to reward the most loyal users, i.e., those who have been using the platform for the longest time.
    Task: Identify the five oldest users on Instagram from the provided database.
 
@@ -21,6 +22,7 @@ Instagram User Analytics Using MySQL
 
 
 **B) Investor Metrics**:
+
 **1.	User Engagement**: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
     Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 
